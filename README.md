@@ -206,3 +206,5 @@ The dashboard is split into three navigable pages:
 
 This dashboard provides comprehensive visual insights into global and country-level metrics, allowing for comparisons across different regions and countries. The combination of key performance indicators (KPIs), line charts, pie charts, bar charts, scatter plots, and maps helps to explore economic performance, population trends, gender demographics, and employment distribution across the globe.
 
+Kaggle Dataset Link: https://www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles?resource=download
+
